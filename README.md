@@ -1,6 +1,6 @@
 # add markdown comment
 # hogera# neovim markdown preview?
-
+# ほげら
 markdown preview を使えばリアルタイムに表示することができる
 
 | hogera | huge  | Column3 |
@@ -10,3 +10,4 @@ markdown preview を使えばリアルタイムに表示することができる
 table もスニペットで自動生成することができる
 `markdownPreview`コマンドでローカルサーバーが起動してプレビューを表示できるようになる。
 
+# markdown for nvim
