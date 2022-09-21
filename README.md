@@ -2,6 +2,7 @@
 # hogera# neovim markdown preview?
 # ほげら
 # practive hogehoge
+# intellij reset head commit
 markdown preview を使えばリアルタイムに表示することができる
 
 | hogera | huge  | Column3 |
