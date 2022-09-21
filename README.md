@@ -6,6 +6,7 @@
 # revert add issue3 commit
 # issue3 add commit revert change resolve
 markdown preview を使えばリアルタイムに表示することができる
+# intellij local history
 
 | hogera | huge  | Column3 |
 | ------ | ----- | ------- |
