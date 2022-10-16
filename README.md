@@ -28,3 +28,5 @@ table もスニペットで自動生成することができる
 # hogehoge
 
 markdown のフォーマットも nvim で設定することができる
+
+hoge
