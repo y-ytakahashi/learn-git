@@ -23,8 +23,8 @@ table もスニペットで自動生成することができる
 
 # markdown for nvim
 
-nvim でプレビューするとローカルのプレビューサーバが起動してブラウザで MD ファイルを確認することができる
+# huga
 
-## hogera
+# hogehoge
 
-### hogera
+markdown のフォーマットも nvim で設定することができる
