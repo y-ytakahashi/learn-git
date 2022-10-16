@@ -34,4 +34,5 @@ markdown のフォーマットも nvim で設定することができる
 
 hoge
 
-hogera
+hoge hoge hoge
+
