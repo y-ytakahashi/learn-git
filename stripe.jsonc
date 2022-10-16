@@ -8,7 +8,6 @@
 }
 
 // 無効なプロモーションコードの利用
-
 {
   "status": 400,
   "message": "This promotion code cannot be redeemed because the associated customer has prior transactions.",

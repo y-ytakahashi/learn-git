@@ -25,3 +25,11 @@ hogehoge
 hugahuga
 
 hogehugahuga
+
+# huga
+
+# hogehoge
+
+markdown のフォーマットも nvim で設定することができる
+
+hoge
