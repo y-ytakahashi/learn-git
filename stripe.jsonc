@@ -1,0 +1,18 @@
+//プロモーションコードの重複利用
+{
+  "status": 400,
+  "message": "This promotion code cannot be redeemed because the associated customer has prior transactions.",
+  "param": "promotion_code",
+  "request_id": "req_DDamnThyUd9bfA",
+  "type": "invalid_request_error"
+}
+
+// 無効なプロモーションコードの利用
+
+{
+  "status": 400,
+  "message": "This promotion code cannot be redeemed because the associated customer has prior transactions.",
+  "param": "promotion_code",
+  "request_id": "req_qFXaYq6p3w77sq",
+  "type": "invalid_request_error"
+}
